@@ -9,19 +9,19 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 <!-- Add a short paragraph describing the project. --> 
-This will be a tool to segment the fetal brain from the a fetal MRI. Afterwards the fetal brain will be compiled into a brain volume for later comparisons
+This will be a tool to segment the fetal brain from a fetal MRI. Afterwards the fetal brain will be compiled into a brain volume for statistical analysis.
 
 
 ## Objective
-1. Take any fetal MRI image
-1. Autonomously segment the fetal brain
-1. Autonomously produce a brain volume for the segmented brain 
+1. Take a fetal MRI image
+1. Segment the fetal brain
+1. Produce a brain volume for the segmented brain 
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Search for current segmentation tools and test if they function on fetal brains.
+1. If no current solution exists attempt to create a tool for assisted manual segmentation.
+1. Merge segmented slices into one volume.
 
 ## Progress and Next Steps
 
