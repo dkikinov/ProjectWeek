@@ -69,7 +69,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Segmentation
 + [Brain Tumour Segmentation](./Projects/Brain_Tumour_Segment.md) (Daiana Pur)
-+ [Fetal Brain Segmentation and Volumization](.Projects/FetalBrainSegmentationAndVolumization/README.md) (Estee Goldberg and Denis Kikinov)
++ [Fetal Brain Segmentation and Volumization](.Projects/FetalBrainSegmentationAndVolumization/README.md) (Estee Goldberg, Denis Kikinov)
 
 ### Core infrastructure
 + [Jupyter notebook integration](./Projects/SlicerJupyter/README.md) (Andras Lasso, Jean-Christophe Fillion-Robin)
